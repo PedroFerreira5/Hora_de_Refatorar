@@ -1,4 +1,4 @@
-# Pedido Solid Java
+# REFATORANDO SPRINT 4 Gestão do Ciclo de Vida da Aplicação
 
 Projeto Java para exemplificar a aplicação de princípios de design orientado a objetos, com foco em SRP, ISP, OCP, DIP e composição em vez de herança.
 
