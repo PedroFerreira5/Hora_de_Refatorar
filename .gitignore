@@ -1,0 +1,17 @@
+# Java build output
+bin/
+out/
+target/
+*.class
+
+# IDE/editor files
+.vscode/
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# project runtime output
+pedidos.txt
